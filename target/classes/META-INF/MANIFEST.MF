@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootInsertRest
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: indian
+Implementation-Vendor-Id: com.mk
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootIn
+ sertRest/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

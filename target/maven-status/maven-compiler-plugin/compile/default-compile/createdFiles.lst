@@ -1,0 +1,8 @@
+com\mk\tracrat\SpringBootInsertRestApplication.class
+com\mk\tracrat\cnfg\persistanceCnfg.class
+com\mk\tracrat\service\UserService.class
+com\mk\tracrat\cnfg\Service.class
+com\mk\tracrat\controller\UserController.class
+com\mk\tracrat\cnfg\rootAppCnfg.class
+com\mk\tracrat\command\Command.class
+com\mk\tracrat\dao\userDao.class
